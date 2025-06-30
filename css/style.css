@@ -1,0 +1,10 @@
+/* Police décriture */
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Delius+Swash+Caps&family=Delius+Unicase:wght@400;700&display=swap');
+
+body {
+  font-family: Delius;
+}
+
+.taille-description {
+  width: 50%;
+}
