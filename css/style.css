@@ -8,3 +8,259 @@ body {
 .taille-description {
   width: 50%;
 }
+
+/* Media screen pour l'Iphone SE */
+@media screen and (max-width: 375px) and (min-width: 375px) and (max-height: 667px) and (min-height: 667px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 9.5rem;
+  }
+}
+
+/* Media screen pour l'Iphone XR */
+@media screen and (max-width: 414px) and (min-width: 414px) and (max-height: 896px) and (min-height: 896px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 6rem;
+  }
+}
+
+/* Media Screen pour l'Iphone 12 Pro */
+@media screen and (max-width: 390px) and (min-width: 390px) and (max-height: 844px) and (min-height: 844px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 6rem;
+  }
+}
+
+/* Media Screen pour l'Iphone 14 Pro Max */
+@media screen and (max-width: 430px) and (min-width: 430px) and (max-height: 932px) and (min-height: 932px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 6.5rem;
+  }
+}
+
+/* Media Screen pour le Google Pixel 7 et le Samsung Galaxy S20 Ultra */
+@media screen and (max-width: 412px) and (min-width: 412px) and (max-height: 915px) and (min-height: 915px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 6.5rem;
+  }
+}
+
+/* Media Screen pour le Samsung Galaxy S8+ */
+@media screen and (max-width: 360px) and (min-width: 360px) and (max-height: 740px) and (min-height: 740px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 5.5rem;
+  }
+}
+
+/* Media Screen pour l'iPad Mini */
+@media screen and (max-width: 768px) and (min-width: 768px) and (max-height: 1024px) and (min-height: 1024px) {
+  header h1 {
+    font-size: 2.75rem;
+  }
+  main div img {
+    width: 20rem;
+  }
+  main div p {
+    font-size: 1rem;
+  }
+  main div a img.imageGeneree {
+    width: 8.5rem;
+  }
+}
+
+/* Media Screen pour l'iPad Air */
+@media screen and (max-width: 820px) and (min-width: 820px) and (max-height: 1180px) and (min-height: 1180px) {
+  header h1 {
+    font-size: 2.75rem;
+  }
+  main div img {
+    width: 20rem;
+  }
+  main div p {
+    font-size: 1rem;
+  }
+  main div a img.imageGeneree {
+    width: 10rem;
+  }
+}
+
+/* Media Screen pour l'iPad Pro */
+@media screen and (max-width: 1024px) and (min-width: 1024px) and (max-height: 1366px) and (min-height: 1366px) {
+  header h1 {
+    font-size: 3.75rem;
+  }
+  main div img {
+    width: 30rem;
+  }
+  main div p {
+    font-size: 1.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 10.5rem;
+  }
+}
+
+/* Media Screen pour Surface Pro 7 */
+@media screen and (max-width: 912px) and (min-width: 912px) and (max-height: 1368px) and (min-height: 1368px) {
+  header h1 {
+    font-size: 3.25rem;
+  }
+  main div img {
+    width: 30rem;
+  }
+  main div p {
+    font-size: 1.4rem;
+  }
+  main div a img.imageGeneree {
+    width: 16.5rem;
+  }
+}
+
+/* Media Screen pour Surface Duo */
+@media screen and (max-width: 540px) and (min-width: 540px) and (max-height: 720px) and (min-height: 720px) {
+  header h1 {
+    font-size: 2rem;
+  }
+  main div img {
+    width: 18rem;
+  }
+  main div p {
+    font-size: 0.8rem;
+  }
+  main div a img.imageGeneree {
+    width: 9rem;
+  }
+}
+
+/* Media Screen pour Samsung Galaxy Z Fold 5 */
+@media screen and (max-width: 344px) and (min-width: 344px) and (max-height: 882px) and (min-height: 882px) {
+  header h1 {
+    font-size: 1.3rem;
+  }
+  main div img {
+    width: 10rem;
+  }
+  main div p {
+    font-size: 0.5rem;
+  }
+  main div a img.imageGeneree {
+    width: 5rem;
+  }
+}
+
+/* Media Screen pour Asus Zenbook Fold */
+@media screen and (max-width: 853px) and (min-width: 853px) and (max-height: 1280px) and (min-height: 1280px) {
+  header h1 {
+    font-size: 3.2rem;
+  }
+  main div img {
+    width: 25rem;
+  }
+  main div p {
+    font-size: 1.2rem;
+  }
+  main div a img.imageGeneree {
+    width: 15rem;
+  }
+}
+
+/* Media Screen pour Samsung Galaxy A51/71*/
+@media screen and (max-width: 412px) and (min-width: 412px) and (max-height: 914px) and (min-height: 914px) {
+  header h1 {
+    font-size: 1.5rem;
+  }
+  main div img {
+    width: 12rem;
+  }
+  main div p {
+    font-size: 0.6rem;
+  }
+  main div a img.imageGeneree {
+    width: 6.5rem;
+  }
+}
+
+/* Media Screen pour Nest Hub */
+@media screen and (max-width: 1024px) and (min-width: 1024px) and (max-height: 600px) and (min-height: 600px) {
+  header h1 {
+    font-size: 3rem;
+  }
+  main div img {
+    width: 15rem;
+  }
+  main div p {
+    font-size: 1rem;
+  }
+  main div a img.imageGeneree {
+    width: 15rem;
+  }
+}
+
+/* Media Screen pour Nest Hub Max */
+@media screen and (max-width: 1280px) and (min-width: 1280px) and (max-height: 800px) and (min-height: 800px) {
+  header h1 {
+    font-size: 3rem;
+  }
+  main div img {
+    width: 15rem;
+  }
+  main div p {
+    font-size: 1rem;
+  }
+  main div a img.imageGeneree {
+    width: 15rem;
+  }
+}
